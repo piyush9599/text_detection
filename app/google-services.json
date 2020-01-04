@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13523293408",
+    "firebase_url": "https://text-detection-2ad10.firebaseio.com",
+    "project_id": "text-detection-2ad10",
+    "storage_bucket": "text-detection-2ad10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13523293408:android:5105352c3cb0b34e22ac85",
+        "android_client_info": {
+          "package_name": "com.example.textdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13523293408-e9jk06k2m7dsvfdgpgul253j92unuuvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmLKDaHZp_3sa3o77iPypGTB6dXQcxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13523293408-e9jk06k2m7dsvfdgpgul253j92unuuvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
